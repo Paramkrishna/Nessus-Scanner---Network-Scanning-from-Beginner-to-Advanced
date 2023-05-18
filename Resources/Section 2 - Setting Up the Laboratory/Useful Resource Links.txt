@@ -1,0 +1,11 @@
+Useful Resource Links
+
+Section 2 - Setting Up the Laboratory
+
+VMware Player https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0
+
+Basic PenTesting 1 - First Lab
+https://www.vulnhub.com/entry/basic-pentesting-1,216/
+
+Owaspbwa - Second Lab
+https://www.vulnhub.com/entry/owasp-broken-web-applications-project-12,46/
